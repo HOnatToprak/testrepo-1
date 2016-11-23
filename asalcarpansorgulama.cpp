@@ -2,7 +2,8 @@
 int main() {
 	int number;
 	int flag = 1;
-	while (1) {
+	while (1) 
+	{
 		printf("\nsayi giriniz:");
 		scanf("%d", &number);
 		printf("\nsayinizin asal carpanlari\n------------------------------------------\n");
